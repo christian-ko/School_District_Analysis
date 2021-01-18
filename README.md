@@ -41,6 +41,7 @@
     - Thomas High School is ranked second for % overall passing both before and after removing the 9th grade students. 
 
 > Math & Reading Scores by Grade
+
 ![Math Scores by Grade Original](Resources/mathByGrade1.png)
 ![Math Scores by Grade Modified](Resources/mathByGrade2.png)
 ![Reading Scores by Grade Original](Resources/readingByGrade1.png)
@@ -49,18 +50,21 @@
     - Since these data frames were already grouped by grade level, the only difference is the removal of the Thomas High School 9th grader scores which is replaced with 'nan'.
 
 > Scores by School Spending
+
 ![Scores by Spending Original](Resources/spend1.png)
 ![Scores by Spending Modified](Resources/spend2.png)
 
     - There is no change to the scores based on per student spending.
 
 > Scores by School Size
+
 ![Scores by School Size Original](Resources/size1.png)
 ![Scores by School Size Modified](Resources/size2.png)
 
     - There is no change to the scores based on size of school.
 
 > Scores by School Type
+
 ![Scores by School Type Original](Resources/type1.png)
 ![Scores by School Type Modified](Resources/type2.png)
 
