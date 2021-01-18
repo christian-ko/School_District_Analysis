@@ -40,10 +40,13 @@
 
     - Thomas High School is ranked second for % overall passing both before and after removing the 9th grade students. 
 
-> Math & Reading Scores by Grade
+> Math Scores by Grade
 
 ![Math Scores by Grade Original](Resources/mathByGrade1.png)
 ![Math Scores by Grade Modified](Resources/mathByGrade2.png)
+
+>Reading Scores by Grade
+
 ![Reading Scores by Grade Original](Resources/readingByGrade1.png)
 ![Reading Scores by Grade Modified](Resources/readingByGrade2.png)
 
